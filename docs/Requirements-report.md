@@ -8,10 +8,10 @@
 **Team Members:**
 | Name | Roll No. | Role |
 |---|---|---|
-| _[Add Name]_ | _[Add Roll No.]_ | Requirements Report |
-| _[Add Name]_ | _[Add Roll No.]_ | SRS Document |
-| _[Add Name]_ | _[Add Roll No.]_ | UML Use Case Diagram |
-| _[Add Name]_ | _[Add Roll No.]_ | Development / Implementation |
+| _Aryan Jha_ | _202401100100064_ | Requirements Report |
+| _Akshat Sharma_ | _202401100100029_ | SRS Document |
+| _Ashrit Shukla_ | _202401100100069_ | UML Use Case Diagram |
+| _Atharva Singh_ | _202401100100072_ | Development / Implementation |
 
 ---
 
